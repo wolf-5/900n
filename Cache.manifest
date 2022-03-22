@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# The Wolf Host 900m ( Mon 03/14/2022 )
+# The Wolf Host 900m ( Tue 03/22/2022 )
 
 app2usb.bin
 backup.bin
@@ -8,7 +8,7 @@ CopyCH.bin
 disableupdates.bin
 dumper.bin
 enableupdate.bin
-exploit.js
+exitidu.bin
 fan50.bin
 fan55.bin
 fan60.bin
@@ -17,41 +17,27 @@ fan70.bin
 fan75.bin
 fan80.bin
 fanDefault.bin
-frontend.js
 ftp.bin
 goldhen212.bin
-goldhen22.bin
+goldhen221.bin
 historyblocker.bin
 index.html
 int64.js
-int64b.js
 kernelclock.bin
 kerneldumper.bin
-kexploit-launcher.js
 kexploit.js
-kexploitb.js
-LinuxLoader.js
-LinuxLoader2gb.js
-LinuxLoader3gb.js
-LinuxLoader4gb.js
-LinuxLoader5gb.js
-malloc.js
-mira.js
-netcat.js
+linuxloader.bin
+linuxloader2gb.bin
+linuxloader3gb.bin
+linuxloader4gb.bin
+linuxloader5gb.bin
+main.js
 parental.bin
-payload.html
-payload.js
 ps4debug.bin
-relocator.js
 restore.bin
 rifrenamer.bin
 rop.js
-ropb.js
-ropb2.js
-syscalls.js
-syscalls2.js
 todex.bin
 toolbox.bin
-web.html
 webkit.js
 webrte.bin
