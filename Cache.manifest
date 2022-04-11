@@ -11,7 +11,6 @@ enableupdate.bin
 exploit.js
 frontend.js
 ftp.bin
-goldhen212.bin
 goldhen222.bin
 historyblocker.bin
 index.html
@@ -31,7 +30,6 @@ payload.js
 ps4debug.bin
 relocator.js
 restore.bin
-rifrenamer.bin
 rop.js
 ropb.js
 syscalls.js
