@@ -25,11 +25,11 @@ goldhen222.bin.bz2
 historyblocker.bin.bz2
 index.html
 kerneldumper.bin.bz2
-LinuxLoader.bin.bz2
-LinuxLoader2g.bin.bz2
-LinuxLoader3g.bin.bz2
-LinuxLoader4g.bin.bz2
-LinuxLoader5g.bin.bz2
+LinuxLoader.bin
+LinuxLoader2g.bin
+LinuxLoader3g.bin
+LinuxLoader4g.bin
+LinuxLoader5g.bin
 Lush135.bin.bz2
 Lush138.bin.bz2
 malloc.js
