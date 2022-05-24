@@ -1332,7 +1332,7 @@ function kernel() {
             chain.fcall(patch_buffer, p.read8(KERNEL_BASE_PTR));
             chain.fcall(window.syscalls[73], patch_buffer, 0x4000);
             chain.run();
-            alert("✅ Now remove the USB drive and click OK 💯");
+        alert("✅ Now remove the USB drive and click OK 💯");
             setTimeout(jbdone, 50);
         }
         else
